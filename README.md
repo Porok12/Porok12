@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me **przemekpapla@gmail.com**
 
-<br/>
-
 ### 🤝 Connect with me
 <p align="center">
 <a href="https://stackoverflow.com/users/14034817"><img src="https://img.shields.io/badge/-stackoverflow-bcbbbb?style=flat&logo=stackoverflow"/></a>
@@ -20,8 +18,6 @@
 <a href="https://stackoverflow.com/users/14034817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14034817" height="30" width="40" /></a>
 </p>
 -->
-
-<br/>
 
 ### 🛠️ My Skills
 
