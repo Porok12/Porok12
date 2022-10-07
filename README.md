@@ -63,7 +63,7 @@
 ![Three.js](https://img.shields.io/badge/-ThreeJs-05122A?style=flat&logo=three.js)\
 ![RapberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi)&nbsp;
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stm32)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&arduino)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 
 <!--
 
