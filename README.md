@@ -61,7 +61,7 @@
 ![OpenGL](https://img.shields.io/badge/-OpenGL-05122A?style=flat&logo=opengl)&nbsp;
 ![WebGL](https://img.shields.io/badge/-WebGL-05122A?style=flat&logo=webgl)&nbsp;
 ![Three.js](https://img.shields.io/badge/-ThreeJs-05122A?style=flat&logo=three.js)\
-![RapberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi)&nbsp;
+![RapberryPi](https://img.shields.io/badge/-RaspberryPi-05122A?style=flat&logo=raspberrypi&logoColor=cc2455)&nbsp;
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stm32)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
 
