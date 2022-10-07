@@ -8,7 +8,7 @@
 
 ### 🤝 Connect with me
 <p align="center">
-<a href="https://stackoverflow.com/users/14034817"><img src="https://img.shields.io/badge/-stackoverflow-bcbbbb?style=flat&logo=stackoverflow"/></a>
+<a href="https://stackoverflow.com/users/14034817"><img src="https://img.shields.io/badge/-stackoverflow-bcbbbb?style=flat&logo=stackoverflow&logoColor=db7320"/></a>
 <a href="https://linkedin.com/in/przemysław-papla-478864149"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:przemekpapla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
