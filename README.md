@@ -53,6 +53,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql&logoColor=3f97aa)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-05122A?style=flat-square&logo=google-cloud)&nbsp;
